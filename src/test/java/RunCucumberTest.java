@@ -8,6 +8,6 @@ import org.junit.runner.RunWith;
 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(plugin = {"pretty"},features = "src/test/resources") //plugin is used to specify the output format
+@CucumberOptions(plugin = {"pretty"},features = "src/test/resources/") //plugin is used to specify the output format
 public class RunCucumberTest{
 }
