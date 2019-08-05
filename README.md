@@ -1,4 +1,4 @@
-This repository contains an example of using cucumber to create BDD tests. 
+This repository contains an example of using cucumber to create BDD tests
 
 General notes:
 
@@ -8,6 +8,5 @@ If you have multiple feature files, each file has to have unique steps.
 
 You can define multiple scenarios in the same feature file.
 
-You can run a specific feature by specifying the path to that feature in your runner class. 
-
+You can run a specific feature by specifying the path to that feature in your runner class.
 
