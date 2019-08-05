@@ -1,5 +1,4 @@
-This repository contains an example of using cucumber to create BDD tests
-
+This repository contains an example of using cucumber to create BDD tests.
 General notes:
 
 The steps you define in the feature file should have the exact spelling as the steps you define in your steps class in order to invoke the desired functions. 
